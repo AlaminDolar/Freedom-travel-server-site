@@ -1,8 +1,8 @@
-# Travesia_Travel_Agency-server-Assignment-11
+# FreeDom_Tracel-server-Assignment-11
 
 ## Live site link
 
-[live site Link](https://travesia-travel.web.app/) : https://travesia-travel.web.app/
+[live site Link](https://freedom-travel-96bae.web.app/) : https://freedom-travel-96bae.web.app/
 
 ## Using Technology
 
@@ -24,6 +24,5 @@
 - You may also take our 24/7 Emergency helpline service.
   >
 
-## Nahid Ahmed (owner This Repo and This Website)
+## Alamin (owner This Repo and This Website)
 
-- junior Web Developer in TEAM Rejected .
